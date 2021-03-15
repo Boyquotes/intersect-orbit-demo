@@ -15,3 +15,7 @@ Demo for Godot 3.2.3 showing how to intersect an object in an orbit by calculati
 [SPACE by VECTORSTARPIXEL](https://vectorpixelstar.itch.io/space)
 
 [StackExchange answer by DMGregory](https://gamedev.stackexchange.com/a/75037)
+
+[Silver by Poppy Works](https://poppyworks.itch.io/silver)
+
+[Thaleah Fat by Tiny Worlds](https://tinyworlds.itch.io/free-pixel-font-thaleah)

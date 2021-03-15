@@ -498,7 +498,7 @@ __meta__ = {
 [node name="Star" type="AnimatedSprite" parent="Objects"]
 position = Vector2( 640, 360 )
 frames = SubResource( 51 )
-frame = 47
+frame = 10
 playing = true
 __meta__ = {
 "_edit_lock_": true
@@ -506,7 +506,7 @@ __meta__ = {
 
 [node name="Planet" type="AnimatedSprite" parent="Objects/Star"]
 frames = SubResource( 102 )
-frame = 9
+frame = 22
 playing = true
 offset = Vector2( 200, 200 )
 __meta__ = {
@@ -529,7 +529,7 @@ __meta__ = {
 [node name="Ship" type="AnimatedSprite" parent="Objects"]
 position = Vector2( 256, 360 )
 frames = SubResource( 113 )
-frame = 7
+frame = 3
 playing = true
 __meta__ = {
 "_edit_lock_": true
@@ -582,7 +582,7 @@ text = "Credits"
 
 [node name="PopupPanel" type="PopupPanel" parent="UI/Control"]
 margin_right = 600.0
-margin_bottom = 240.0
+margin_bottom = 323.0
 __meta__ = {
 "_edit_lock_": true
 }
@@ -600,12 +600,16 @@ bbcode_text = "[center][b]Credits[/b]
 [url=https://deep-fold.itch.io/pixel-planet-generator]Pixel Planet Generator by Deep-Fold[/url]
 [url=https://ansimuz.itch.io/spaceship-shooter-environment]Spaceship Shooter Environment by ansimuz[/url]
 [url=https://vectorpixelstar.itch.io/space]SPACE by VECTORSTARPIXEL[/url]
-[url=https://gamedev.stackexchange.com/a/75037]StackExchange answer by DMGregory[/url][/center]"
+[url=https://gamedev.stackexchange.com/a/75037]StackExchange answer by DMGregory[/url]
+[url=https://poppyworks.itch.io/silver]Silver by Poppy Works[/url]
+[url=https://tinyworlds.itch.io/free-pixel-font-thaleah]Thaleah Fat by Tiny Worlds[/url][/center]"
 text = "Credits
 Pixel Planet Generator by Deep-Fold
 Spaceship Shooter Environment by ansimuz
 SPACE by VECTORSTARPIXEL
-StackExchange answer by DMGregory"
+StackExchange answer by DMGregory
+Silver by Poppy Works
+Thaleah Fat by Tiny Worlds"
 fit_content_height = true
 __meta__ = {
 "_edit_lock_": true,
